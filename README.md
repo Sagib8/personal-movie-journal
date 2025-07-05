@@ -1,7 +1,7 @@
 
 ## Preview
 
-![My Space Screenshot](my space.png)
+![my-space Screenshot](my space.png)
 
 
 # Personal Movie Journal
