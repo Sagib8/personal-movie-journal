@@ -1,3 +1,9 @@
+
+## Preview
+
+![my-space Screenshot](my-space.png)
+
+
 # Personal Movie Journal
 
 A full-stack web application for managing a personal movie journal. Users can securely register and log in, search movies using the TMDB API, add them to their personal space, track watch status, rate and comment, and mark favorites.
@@ -59,7 +65,7 @@ A full-stack web application for managing a personal movie journal. Users can se
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sagib8/personal-movie-journal.git
-cd movie-journal
+cd personal-movie-journal
 ```
 
 2. Backend Setup:
