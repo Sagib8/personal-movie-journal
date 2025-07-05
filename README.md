@@ -1,3 +1,9 @@
+
+## Preview
+
+![My Space Screenshot](my_space.png)
+
+
 # Personal Movie Journal
 
 A full-stack web application for managing a personal movie journal. Users can securely register and log in, search movies using the TMDB API, add them to their personal space, track watch status, rate and comment, and mark favorites.
