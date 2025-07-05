@@ -65,7 +65,7 @@ A full-stack web application for managing a personal movie journal. Users can se
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sagib8/personal-movie-journal.git
-cd movie-journal
+cd personal-movie-journal
 ```
 
 2. Backend Setup:
