@@ -1,0 +1,37 @@
+/* src/pages/MySpace.css */
+
+/* Apply a full-page dark background */
+.myspace-container {
+  background-color: #111;
+  color: #f8f9fa;
+  min-height: 100vh;
+  padding-bottom: 50px;
+}
+
+/* Customize movie card appearance */
+.movie-card {
+  border: 1px solid #444;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.movie-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.1);
+}
+
+/* Limit image height and maintain aspect ratio */
+.movie-poster {
+  max-height: 400px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+/* Center text in case of no movies */
+.myspace-container p {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #ccc;
+}
