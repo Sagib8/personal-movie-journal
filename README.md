@@ -87,9 +87,10 @@ npm run dev
 
 3. Frontend Setup:
 ```bash
-cd frontend
+cd ..
+cd frontend       
 npm install
-npm start
+npm run dev
 ```
 
 ---
